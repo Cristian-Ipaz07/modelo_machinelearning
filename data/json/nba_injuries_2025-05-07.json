@@ -1,0 +1,1299 @@
+{
+    "league": {
+        "id": "4353138d-4c22-4396-95d8-5f587d2df25c",
+        "name": "NBA",
+        "alias": "NBA"
+    },
+    "teams": [
+        {
+            "id": "583ecda6-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Raptors",
+            "market": "Toronto",
+            "sr_id": "sr:team:3433",
+            "reference": "1610612761",
+            "players": [
+                {
+                    "id": "964573c1-d054-4dce-84c0-3238f8cbf0be",
+                    "full_name": "Ulrich Chomche",
+                    "first_name": "Ulrich",
+                    "last_name": "Chomche",
+                    "position": "C",
+                    "primary_position": "PF",
+                    "jersey_number": "22",
+                    "sr_id": "sr:player:2818895",
+                    "reference": "1642279",
+                    "injuries": [
+                        {
+                            "id": "06900f8c-79d8-4dac-85aa-0d55b04b160a",
+                            "comment": "Head coach Darko Rajakovic anticipates watching Chomche play in the Las Vegas Summer League in July, according to Esfandiar Baraheni of The Athletic.",
+                            "desc": "Knee",
+                            "status": "Out For Season",
+                            "start_date": "2025-02-19",
+                            "update_date": "2025-04-15"
+                        }
+                    ]
+                },
+                {
+                    "id": "8082841d-e516-43c6-a81b-7987fa321acd",
+                    "full_name": "Brandon Ingram",
+                    "first_name": "Brandon",
+                    "last_name": "Ingram",
+                    "position": "F",
+                    "primary_position": "SF",
+                    "jersey_number": "3",
+                    "sr_id": "sr:player:996321",
+                    "reference": "1627742",
+                    "injuries": [
+                        {
+                            "id": "0720c5c3-6527-485b-a93e-ddd45550b192",
+                            "comment": "The Raptors officially shut down Ingram for the rest of the season Wednesday (Apr. 9) after he got a PRP injection in his left ankle, per Michael Grange of Sportsnet.ca.",
+                            "desc": "Ankle",
+                            "status": "Out For Season",
+                            "start_date": "2025-12-07",
+                            "update_date": "2025-04-09"
+                        }
+                    ]
+                },
+                {
+                    "id": "59c707c2-fc69-4ed5-aa33-d446709dad9f",
+                    "full_name": "Gradey Dick",
+                    "first_name": "Gradey",
+                    "last_name": "Dick",
+                    "position": "G-F",
+                    "primary_position": "SG",
+                    "jersey_number": "1",
+                    "sr_id": "sr:player:2439871",
+                    "reference": "1641711",
+                    "injuries": [
+                        {
+                            "id": "07c43a6e-6680-49e8-9775-8a9ecc88be04",
+                            "comment": "Dick is out for the remainder of the 2024-25 regular season, according to Ryan Wolstat of the Toronto Sun.",
+                            "desc": "Knee",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-02",
+                            "update_date": "2025-04-04"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ecb8f-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Hawks",
+            "market": "Atlanta",
+            "sr_id": "sr:team:3423",
+            "reference": "1610612737",
+            "players": [
+                {
+                    "id": "ad389979-d1d5-4f26-ad64-3e516b3373a3",
+                    "full_name": "Larry Nance Jr.",
+                    "first_name": "Larry",
+                    "last_name": "Nance",
+                    "position": "F-C",
+                    "primary_position": "PF",
+                    "jersey_number": "22",
+                    "name_suffix": "Jr.",
+                    "sr_id": "sr:player:852066",
+                    "reference": "1626204",
+                    "injuries": [
+                        {
+                            "id": "0b4b61f0-352f-46d6-81db-3128cc7c078b",
+                            "comment": "The Hawks announced on Wednesday (Mar. 27) that Nance Jr. will miss the rest of the season while recovering from a right medial femoral condyle fracture.",
+                            "desc": "Knee",
+                            "status": "Out For Season",
+                            "start_date": "2025-02-10",
+                            "update_date": "2025-03-26"
+                        }
+                    ]
+                },
+                {
+                    "id": "a10a4352-53b3-47b6-a336-201dc9e8401e",
+                    "full_name": "Kobe Bufkin",
+                    "first_name": "Kobe",
+                    "last_name": "Bufkin",
+                    "position": "G",
+                    "primary_position": "SG",
+                    "jersey_number": "4",
+                    "sr_id": "sr:player:2216820",
+                    "reference": "1641723",
+                    "injuries": [
+                        {
+                            "id": "1a66453d-034b-4ffe-8d1e-73b61069c3fc",
+                            "comment": "The Hawks said on Wednesday (Dec. 18) that Bufkin will undergo surgery to address a right shoulder instability and will miss the rest of the season.",
+                            "desc": "Shoulder",
+                            "status": "Out For Season",
+                            "start_date": "2024-12-18",
+                            "update_date": "2024-12-18"
+                        }
+                    ]
+                },
+                {
+                    "id": "d222539f-fa52-4070-807f-d3aba372f46d",
+                    "full_name": "Jalen Johnson",
+                    "first_name": "Jalen",
+                    "last_name": "Johnson",
+                    "position": "F",
+                    "primary_position": "SF",
+                    "jersey_number": "1",
+                    "sr_id": "sr:player:2078875",
+                    "reference": "1630552",
+                    "injuries": [
+                        {
+                            "id": "ea01aadb-534f-496f-8458-07067386fbd2",
+                            "comment": "Johnson was diagnosed on Wednesday (Jan. 29) with a torn labrum in his left shoulder and will miss the rest of the season, league sources tell NBA reporter Chris Haynes.",
+                            "desc": "Shoulder",
+                            "status": "Out For Season",
+                            "start_date": "2025-01-23",
+                            "update_date": "2025-01-29"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ec5fd-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Bulls",
+            "market": "Chicago",
+            "sr_id": "sr:team:3409",
+            "reference": "1610612741",
+            "players": [
+                {
+                    "id": "f8a7e4c7-d60e-4751-9203-30a772dd9272",
+                    "full_name": "Ayo Dosunmu",
+                    "first_name": "Ayo",
+                    "last_name": "Dosunmu",
+                    "position": "G",
+                    "primary_position": "SG",
+                    "jersey_number": "11",
+                    "sr_id": "sr:player:1491934",
+                    "reference": "1630245",
+                    "injuries": [
+                        {
+                            "id": "0c797ca8-1fa5-4147-a1bd-b1ac83726e91",
+                            "comment": "Dosunmu said on Thursday (Apr. 17) that he is no longer wearing a brace and expects to resume 5-on-5 practice in August, per K.C. Johnson of Chicago Sports Network.",
+                            "desc": "Shoulder",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-01",
+                            "update_date": "2025-04-17"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ec773-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Cavaliers",
+            "market": "Cleveland",
+            "sr_id": "sr:team:3432",
+            "reference": "1610612739",
+            "players": [
+                {
+                    "id": "a4a75d83-54b5-4dca-913e-44ab04288446",
+                    "full_name": "De'Andre Hunter",
+                    "first_name": "De'Andre",
+                    "last_name": "Hunter",
+                    "position": "F-G",
+                    "primary_position": "SF",
+                    "jersey_number": "12",
+                    "sr_id": "sr:player:1178448",
+                    "reference": "1629631",
+                    "injuries": [
+                        {
+                            "id": "0d813f30-ccd4-4012-870f-0f1c6bc9eab1",
+                            "comment": "Hunter did not play in Tuesday's (May. 6) Game 2 against the Pacers.",
+                            "desc": "Thumb",
+                            "status": "Day To Day",
+                            "start_date": "2025-05-05",
+                            "update_date": "2025-05-06"
+                        }
+                    ]
+                },
+                {
+                    "id": "d64b602e-45f2-4ba9-878b-0a4f7210ec77",
+                    "full_name": "Evan Mobley",
+                    "first_name": "Evan",
+                    "last_name": "Mobley",
+                    "position": "C",
+                    "primary_position": "PF",
+                    "jersey_number": "4",
+                    "sr_id": "sr:player:2080549",
+                    "reference": "1630596",
+                    "injuries": [
+                        {
+                            "id": "84bb20f6-8ba1-4839-8dc8-fdc5678eefd4",
+                            "comment": "Mobley did not play in Tuesday's (May. 6) Game 2 against the Pacers.",
+                            "desc": "Ankle",
+                            "status": "Day To Day",
+                            "start_date": "2025-05-05",
+                            "update_date": "2025-05-06"
+                        }
+                    ]
+                },
+                {
+                    "id": "b79b88e1-35ef-4947-8a61-f6ec631a1e15",
+                    "full_name": "Darius Garland",
+                    "first_name": "Darius",
+                    "last_name": "Garland",
+                    "position": "G",
+                    "primary_position": "PG",
+                    "jersey_number": "10",
+                    "sr_id": "sr:player:1593878",
+                    "reference": "1629636",
+                    "injuries": [
+                        {
+                            "id": "d923bd73-6116-458a-8090-f0ecaa8ffe3c",
+                            "comment": "Garland did not play in Tuesday's (May. 6) Game 2 against the Pacers.",
+                            "desc": "Toe",
+                            "status": "Day To Day",
+                            "start_date": "2025-04-25",
+                            "update_date": "2025-05-06"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ec97e-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Hornets",
+            "market": "Charlotte",
+            "sr_id": "sr:team:3430",
+            "reference": "1610612766",
+            "players": [
+                {
+                    "id": "59209028-6712-47ef-b87c-bdb19f91523b",
+                    "full_name": "Grant Williams",
+                    "first_name": "Grant",
+                    "last_name": "Williams",
+                    "position": "F",
+                    "primary_position": "PF",
+                    "jersey_number": "2",
+                    "sr_id": "sr:player:1179162",
+                    "reference": "1629684",
+                    "injuries": [
+                        {
+                            "id": "1a4e377f-9157-4d27-b104-2636a360c67c",
+                            "comment": "The Hornets announced on Wednesday (Dec. 11) that Williams underwent successful surgery to repair multiple tears in his knee, including the ACL, per ESPN's Shams Charania. He is expected to return in 9 to 12 months.",
+                            "desc": "ACL",
+                            "status": "Out For Season",
+                            "start_date": "2024-11-24",
+                            "update_date": "2024-12-11"
+                        }
+                    ]
+                },
+                {
+                    "id": "775e4450-cdcd-43a1-b4cd-dc29fba48503",
+                    "full_name": "Brandon Miller",
+                    "first_name": "Brandon",
+                    "last_name": "Miller",
+                    "position": "F",
+                    "primary_position": "SF",
+                    "jersey_number": "24",
+                    "sr_id": "sr:player:2438503",
+                    "reference": "1641706",
+                    "injuries": [
+                        {
+                            "id": "609bd14e-3d4a-4864-af6e-ec4f23e30501",
+                            "comment": "The Hornets announced Friday (Jan. 23) that Miller underwent surgery to repair a torn scapholunate ligament in his right wrist and will miss the remainder of the 2024-25 season.",
+                            "desc": "Wrist",
+                            "status": "Out For Season",
+                            "start_date": "2025-01-16",
+                            "update_date": "2025-01-23"
+                        }
+                    ]
+                },
+                {
+                    "id": "be53f27f-c666-4bd2-8fcd-0713f963aa2b",
+                    "full_name": "LaMelo Ball",
+                    "first_name": "LaMelo",
+                    "last_name": "Ball",
+                    "position": "G",
+                    "primary_position": "PG",
+                    "jersey_number": "1",
+                    "sr_id": "sr:player:1875466",
+                    "reference": "1630163",
+                    "injuries": [
+                        {
+                            "id": "e0aee56d-2f26-426d-9f2f-006cc851554d",
+                            "comment": "The Hornets announced Wednesday (Apr. 2) that Ball has undergone successful surgeries on his right wrist and right ankle, according to Roderick Boone of The Charlotte Observer.",
+                            "desc": "Ankle",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-27",
+                            "update_date": "2025-04-02"
+                        }
+                    ]
+                },
+                {
+                    "id": "5b681679-4d8c-4964-bbba-5ed058257745",
+                    "full_name": "Tre Mann",
+                    "first_name": "Tre",
+                    "last_name": "Mann",
+                    "position": "G",
+                    "primary_position": "PG",
+                    "jersey_number": "23",
+                    "sr_id": "sr:player:1795018",
+                    "reference": "1630544",
+                    "injuries": [
+                        {
+                            "id": "f461b790-82ab-488c-b13e-8983c55a4ed3",
+                            "comment": "Mann has been ruled out for the rest of the 2024-25 season, according to Spencer Percy of Buzz Beat Podcast.",
+                            "desc": "Back",
+                            "status": "Out For Season",
+                            "start_date": "2024-11-22",
+                            "update_date": "2025-01-30"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ed056-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Trail Blazers",
+            "market": "Portland",
+            "sr_id": "sr:team:3414",
+            "reference": "1610612757",
+            "players": [
+                {
+                    "id": "3c4a7fda-fca3-4a68-9886-ea7eec4cc2e3",
+                    "full_name": "Bryce McGowens",
+                    "first_name": "Bryce",
+                    "last_name": "McGowens",
+                    "position": "G",
+                    "primary_position": "SG",
+                    "jersey_number": "11",
+                    "sr_id": "sr:player:2217584",
+                    "reference": "1631121",
+                    "injuries": [
+                        {
+                            "id": "1e6558a3-625b-4591-89b5-f757fe320d3b",
+                            "comment": "The Trail Blazers announced on Wednesday (Mar. 26) that McGowens will miss the rest of the regular season due to a right rib fracture.",
+                            "desc": "Rib",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-27",
+                            "update_date": "2025-03-27"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ec8d4-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Wizards",
+            "market": "Washington",
+            "sr_id": "sr:team:3431",
+            "reference": "1610612764",
+            "players": [
+                {
+                    "id": "27db7dbb-6aad-44df-a3f4-7e1c21c2f256",
+                    "full_name": "Bilal Coulibaly",
+                    "first_name": "Bilal",
+                    "last_name": "Coulibaly",
+                    "position": "G",
+                    "primary_position": "SF",
+                    "jersey_number": "0",
+                    "sr_id": "sr:player:2453239",
+                    "reference": "1641731",
+                    "injuries": [
+                        {
+                            "id": "1ebd45ef-421d-439a-87d5-7b4150073f6d",
+                            "comment": "The Wizards said on Thursday (Mar. 13) that Coulibaly will be out approximately four-to-six weeks following a right hamstring injury sustained in the first quarter of Monday's (Mar. 10) game against Toronto.",
+                            "desc": "Hamstring",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-10",
+                            "update_date": "2025-03-13"
+                        }
+                    ]
+                },
+                {
+                    "id": "3358cc38-7331-43ad-af04-ebd34fe328e7",
+                    "full_name": "Corey Kispert",
+                    "first_name": "Corey",
+                    "last_name": "Kispert",
+                    "position": "F",
+                    "primary_position": "SF",
+                    "jersey_number": "24",
+                    "sr_id": "sr:player:1319316",
+                    "reference": "1630557",
+                    "injuries": [
+                        {
+                            "id": "84144191-e7b8-4c56-87db-c3c7f71c2be8",
+                            "comment": "Kispert underwent successful surgery on his left thumb on Tuesday (Mar. 18) and is expected to make a full recovery and be ready for the start of next season.",
+                            "desc": "Thumb",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-15",
+                            "update_date": "2025-03-18"
+                        }
+                    ]
+                },
+                {
+                    "id": "4c362eee-6474-40ea-b1b4-d8f917f95175",
+                    "full_name": "Khris Middleton",
+                    "first_name": "Khris",
+                    "last_name": "Middleton",
+                    "position": "F",
+                    "primary_position": "SF",
+                    "jersey_number": "32",
+                    "sr_id": "sr:player:607440",
+                    "reference": "203114",
+                    "injuries": [
+                        {
+                            "id": "dcae92a6-f812-4de3-8c26-1e9f14ddd09a",
+                            "comment": "HC Brian Keefe said Friday (Apr. 11) that Middleton is unlikely to return this season, according to Varun Shankar of The Washington Post.",
+                            "desc": "Knee",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-27",
+                            "update_date": "2025-04-11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ecea6-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Heat",
+            "market": "Miami",
+            "sr_id": "sr:team:3435",
+            "reference": "1610612748",
+            "players": [
+                {
+                    "id": "a6d12593-86ca-485f-b775-2abb14eb6d99",
+                    "full_name": "Dru Smith",
+                    "first_name": "Dru",
+                    "last_name": "Smith",
+                    "position": "G",
+                    "primary_position": "SG",
+                    "jersey_number": "12",
+                    "sr_id": "sr:player:1158312",
+                    "reference": "1630696",
+                    "injuries": [
+                        {
+                            "id": "22c81fb5-fe26-4f88-b087-23eef6d326e1",
+                            "comment": "The Heat announced on Friday (Dec. 27) that Smith underwent successful surgery to repair a ruptured left achilles tendon. He will miss the remainder of the season.",
+                            "desc": "Achilles",
+                            "status": "Out For Season",
+                            "start_date": "2024-12-23",
+                            "update_date": "2024-12-27"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ecfa8-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Suns",
+            "market": "Phoenix",
+            "sr_id": "sr:team:3416",
+            "reference": "1610612756",
+            "players": [
+                {
+                    "id": "53f2fa48-e61b-49fb-843d-8a3e872257eb",
+                    "full_name": "Kevin Durant",
+                    "first_name": "Kevin",
+                    "last_name": "Durant",
+                    "position": "F",
+                    "primary_position": "PF",
+                    "jersey_number": "35",
+                    "sr_id": "sr:player:607556",
+                    "reference": "201142",
+                    "injuries": [
+                        {
+                            "id": "3500eefd-5e9c-4a2f-8315-cd25cf712017",
+                            "comment": "HC Mike Budenholzer said Friday (Apr. 11) that Durant will not play in the Suns' regular-season finale against the Kings on Sunday, as per Duane Rankin of The Arizona Republic.",
+                            "desc": "Ankle",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-31",
+                            "update_date": "2025-04-11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ec87d-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "76ers",
+            "market": "Philadelphia",
+            "sr_id": "sr:team:3420",
+            "reference": "1610612755",
+            "players": [
+                {
+                    "id": "2646b0b2-4aa8-40f8-ad9d-f0e97590c8d8",
+                    "full_name": "Jared McCain",
+                    "first_name": "Jared",
+                    "last_name": "McCain",
+                    "position": "G",
+                    "primary_position": "SG",
+                    "jersey_number": "20",
+                    "sr_id": "sr:player:2651647",
+                    "reference": "1642272",
+                    "injuries": [
+                        {
+                            "id": "3585ddff-7db9-4418-a9bb-9ce822e240d6",
+                            "comment": "The 76ers confirmed on Thursday (Jan. 9) in a press release that McCain will miss the remainder of the 2024-25 season, per Kyle Neubeck of AllPHLY.com.",
+                            "desc": "Meniscus",
+                            "status": "Out For Season",
+                            "start_date": "2024-12-14",
+                            "update_date": "2025-01-09"
+                        }
+                    ]
+                },
+                {
+                    "id": "f8d6c74c-e0bd-41ed-a814-f0b25259fe0a",
+                    "full_name": "Eric Gordon",
+                    "first_name": "Eric",
+                    "last_name": "Gordon",
+                    "position": "G",
+                    "primary_position": "SG",
+                    "jersey_number": "23",
+                    "sr_id": "sr:player:607548",
+                    "reference": "201569",
+                    "injuries": [
+                        {
+                            "id": "55be1280-b3f3-41ee-87a8-68f45ec44f78",
+                            "comment": "The 76ers announced on Thursday (Feb. 27) that Gordon will be re-evaluated in three months after undergoing successful wrist surgery, as per Keith Pompey of The Philadelphia Inquirer.",
+                            "desc": "Wrist",
+                            "status": "Out For Season",
+                            "start_date": "2025-02-10",
+                            "update_date": "2025-02-27"
+                        }
+                    ]
+                },
+                {
+                    "id": "75fc46eb-71d8-4d1a-984f-3747ccd7a4c9",
+                    "full_name": "Tyrese Maxey",
+                    "first_name": "Tyrese",
+                    "last_name": "Maxey",
+                    "position": "G",
+                    "primary_position": "PG",
+                    "jersey_number": "0",
+                    "sr_id": "sr:player:1889616",
+                    "reference": "1630178",
+                    "injuries": [
+                        {
+                            "id": "5eec9922-95c8-4d10-ba96-0797fd1b779d",
+                            "comment": "Philadelphia 76ers star Tyrese Maxey is ultimately ruled out for the 2024-25 season with a finger tendon injury, Shams Charania of ESPN reported.",
+                            "desc": "Finger",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-03",
+                            "update_date": "2025-04-02"
+                        }
+                    ]
+                },
+                {
+                    "id": "db09f372-9a17-4889-add7-bf8a75ab6da6",
+                    "full_name": "Paul George",
+                    "first_name": "Paul",
+                    "last_name": "George",
+                    "position": "F",
+                    "primary_position": "PF",
+                    "jersey_number": "8",
+                    "sr_id": "sr:player:608072",
+                    "reference": "202331",
+                    "injuries": [
+                        {
+                            "id": "d84b3ba1-f416-471c-8d2c-5f44819c0118",
+                            "comment": "George received injections in his left adductor muscle and left knee on Monday and has been ruled out for the rest of the season, sources tell ESPN. George is expected to be out at least six weeks.",
+                            "desc": "Groin",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-04",
+                            "update_date": "2025-03-17"
+                        }
+                    ]
+                },
+                {
+                    "id": "bf9ad0fd-0cb8-4360-8970-5f1b5cf3fa8d",
+                    "full_name": "Joel Embiid",
+                    "first_name": "Joel",
+                    "last_name": "Embiid",
+                    "position": "C-F",
+                    "primary_position": "C",
+                    "jersey_number": "21",
+                    "sr_id": "sr:player:607528",
+                    "reference": "203954",
+                    "injuries": [
+                        {
+                            "id": "de6e2a68-9f14-4464-a7c8-4dcab1a03281",
+                            "comment": "The 76ers announced on Friday (Apr. 11) that Embiid had arthroscopic surgery on his left knee and will be re-evaluated in approximately six weeks, per Sr. NBA Writer Marc J. Spears.",
+                            "desc": "Knee",
+                            "status": "Out For Season",
+                            "start_date": "2025-02-23",
+                            "update_date": "2025-04-11"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ec7cd-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Pacers",
+            "market": "Indiana",
+            "sr_id": "sr:team:3419",
+            "reference": "1610612754",
+            "players": [
+                {
+                    "id": "067d9f05-a6b8-4a4b-854c-3364234e62b1",
+                    "full_name": "Isaiah Jackson",
+                    "first_name": "Isaiah",
+                    "last_name": "Jackson",
+                    "position": "F",
+                    "primary_position": "C",
+                    "jersey_number": "22",
+                    "sr_id": "sr:player:2081865",
+                    "reference": "1630543",
+                    "injuries": [
+                        {
+                            "id": "36b231b5-4d9d-4a4f-8e3e-44c809b9a888",
+                            "comment": "The Indiana Pacers announced C Isaiah Jackson has sustained a torn right Achilles tendon in Friday's (Nov. 1) game versus the Pelicans and will be out for the remainder of the season, per Shams Charania of ESPN.",
+                            "desc": "Calf",
+                            "status": "Out For Season",
+                            "start_date": "2024-11-01",
+                            "update_date": "2024-11-02"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ed157-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Magic",
+            "market": "Orlando",
+            "sr_id": "sr:team:3437",
+            "reference": "1610612753",
+            "players": [
+                {
+                    "id": "6dda6e0a-4b74-4486-80cd-5f9a8d93d1ba",
+                    "full_name": "Jalen Suggs",
+                    "first_name": "Jalen",
+                    "last_name": "Suggs",
+                    "position": "G",
+                    "primary_position": "PG",
+                    "jersey_number": "4",
+                    "sr_id": "sr:player:2080521",
+                    "reference": "1630591",
+                    "injuries": [
+                        {
+                            "id": "382a5eeb-1f29-437a-ac95-c34566fa4d2f",
+                            "comment": "The Magic announced on Tuesday (Mar. 4) that Suggs has been ruled out for the remainder of the 2024-25 campaign after undergoing successful surgery.",
+                            "desc": "Quad",
+                            "status": "Out For Season",
+                            "start_date": "2025-01-26",
+                            "update_date": "2025-03-04"
+                        }
+                    ]
+                },
+                {
+                    "id": "f1f258c2-9bcf-4e33-ba9e-563e95084893",
+                    "full_name": "Moritz Wagner",
+                    "first_name": "Moritz",
+                    "last_name": "Wagner",
+                    "position": "F-C",
+                    "primary_position": "C",
+                    "jersey_number": "21",
+                    "sr_id": "sr:player:1177150",
+                    "reference": "1629021",
+                    "injuries": [
+                        {
+                            "id": "b9be2b3d-da46-427a-b077-b92a190984d1",
+                            "comment": "The Magic announced that Wagner underwent successful surgery to repair a torn ACL in his left knee Wednesday (Jan. 8) and will miss the remainder of the 2024-25 season.",
+                            "desc": "Knee",
+                            "status": "Out For Season",
+                            "start_date": "2024-12-21",
+                            "update_date": "2025-01-09"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ec9d6-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Nets",
+            "market": "Brooklyn",
+            "sr_id": "sr:team:3436",
+            "reference": "1610612751",
+            "players": [
+                {
+                    "id": "dbf9e1f5-7573-4c24-992a-04ea080c61e1",
+                    "full_name": "Noah Clowney",
+                    "first_name": "Noah",
+                    "last_name": "Clowney",
+                    "position": "F-C",
+                    "primary_position": "PF",
+                    "jersey_number": "21",
+                    "sr_id": "sr:player:2438515",
+                    "reference": "1641730",
+                    "injuries": [
+                        {
+                            "id": "38a42f7d-d8b0-42ce-8c98-156ec702e7f1",
+                            "comment": "Nets coach Jordi Fernandez said Wednesday (Apr. 3) that Clowney will miss the remainder of the 2024-25 regular season, C.J. Holmes of the New York Daily News reports.",
+                            "desc": "Ankle",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-29",
+                            "update_date": "2025-04-02"
+                        }
+                    ]
+                },
+                {
+                    "id": "5b22ae60-ca29-4cd8-b618-cce7b9766b0e",
+                    "full_name": "De'Anthony Melton",
+                    "first_name": "De'Anthony",
+                    "last_name": "Melton",
+                    "position": "G",
+                    "primary_position": "PG",
+                    "jersey_number": "14",
+                    "sr_id": "sr:player:1171084",
+                    "reference": "1629001",
+                    "injuries": [
+                        {
+                            "id": "8a5c32fd-a53e-4d0d-b80d-322703027efd",
+                            "comment": "Melton will undergo season-ending surgery on his left ACL, the team announced Wednesday (Nov. 20).",
+                            "desc": "ACL",
+                            "status": "Out For Season",
+                            "start_date": "2024-11-14",
+                            "update_date": "2024-11-20"
+                        }
+                    ]
+                },
+                {
+                    "id": "c6289b1b-7bb2-4ee6-8111-1a6e96aa9104",
+                    "full_name": "Cam Thomas",
+                    "first_name": "Cam",
+                    "last_name": "Thomas",
+                    "position": "G",
+                    "primary_position": "SG",
+                    "jersey_number": "24",
+                    "sr_id": "sr:player:2081895",
+                    "reference": "1630560",
+                    "injuries": [
+                        {
+                            "id": "c1a9494b-28d8-4d56-b3dd-f4eddb0dd3ba",
+                            "comment": "The Nets announced on Saturday (Mar. 15) that Thomas will miss the remainder of the season due to a left hamstring strain.",
+                            "desc": "Hamstring",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-14",
+                            "update_date": "2025-03-15"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583eca2f-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Timberwolves",
+            "market": "Minnesota",
+            "sr_id": "sr:team:3426",
+            "reference": "1610612750",
+            "players": [
+                {
+                    "id": "99dc3c11-03fc-4d15-9dd5-d8d1f41c569a",
+                    "full_name": "Rob Dillingham",
+                    "first_name": "Rob",
+                    "last_name": "Dillingham",
+                    "position": "G",
+                    "primary_position": "PG",
+                    "jersey_number": "4",
+                    "sr_id": "sr:player:2690954",
+                    "reference": "1642265",
+                    "injuries": [
+                        {
+                            "id": "38ffade7-d58a-403b-b70d-dadb257fe35d",
+                            "comment": "Dillingham did not play in Tuesday's (May. 6) Game 1 against the Warriors.",
+                            "desc": "Ankle",
+                            "status": "Day To Day",
+                            "start_date": "2025-04-19",
+                            "update_date": "2025-05-06"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ecd4f-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Spurs",
+            "market": "San Antonio",
+            "sr_id": "sr:team:3429",
+            "reference": "1610612759",
+            "players": [
+                {
+                    "id": "cfc1e41b-74ab-45ee-8132-aaf9ca7f8163",
+                    "full_name": "De'Aaron Fox",
+                    "first_name": "De'Aaron",
+                    "last_name": "Fox",
+                    "position": "G",
+                    "primary_position": "PG",
+                    "jersey_number": "4",
+                    "sr_id": "sr:player:1121881",
+                    "reference": "1628368",
+                    "injuries": [
+                        {
+                            "id": "3c9c7754-7b84-4c9d-b8f1-8066a42a939b",
+                            "comment": "The Spurs announced on Thursday (Mar. 13) that Fox will undergo season-ending surgery to repair tendon damage in his left pinkie finger.",
+                            "desc": "Hand",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-13",
+                            "update_date": "2025-03-13"
+                        }
+                    ]
+                },
+                {
+                    "id": "98e2cdeb-69dc-499c-a853-84c32c714924",
+                    "full_name": "Victor Wembanyama",
+                    "first_name": "Victor",
+                    "last_name": "Wembanyama",
+                    "position": "F-C",
+                    "primary_position": "C",
+                    "jersey_number": "1",
+                    "sr_id": "sr:player:1941074",
+                    "reference": "1641705",
+                    "injuries": [
+                        {
+                            "id": "a6d4f645-cc21-4a7d-96a4-ebc91a85f65f",
+                            "comment": "HC of the French National team, Frederic Fauthoux, said Thursday (Mar. 27) that Wembanyama underwent surgery on the deep vein thrombosis in his right shoulder and is feeling fine, as per Jeff Garcia of KENS 5 San Antonio.",
+                            "desc": "Shoulder",
+                            "status": "Out For Season",
+                            "start_date": "2025-02-19",
+                            "update_date": "2025-03-27"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ecc9a-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Pelicans",
+            "market": "New Orleans",
+            "sr_id": "sr:team:5539",
+            "reference": "1610612740",
+            "players": [
+                {
+                    "id": "51b62fe8-1e5c-4c65-8ad3-2ad06e749b70",
+                    "full_name": "Trey Murphy III",
+                    "first_name": "Trey",
+                    "last_name": "Murphy",
+                    "position": "F",
+                    "primary_position": "SF",
+                    "jersey_number": "25",
+                    "name_suffix": "III",
+                    "sr_id": "sr:player:2196318",
+                    "reference": "1630530",
+                    "injuries": [
+                        {
+                            "id": "3caf77c1-dfaa-4a8a-ae5c-25ed724cacf9",
+                            "comment": "The Pelicans announced on Monday (Mar. 17) that Murphy III has been diagnosed with a torn labrum and partial tear of the rotator cuff in his right shoulder and will miss the remainder of the 2024-25 season.",
+                            "desc": "Shoulder",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-17",
+                            "update_date": "2025-03-17"
+                        }
+                    ]
+                },
+                {
+                    "id": "66b88001-06c2-4f4a-9825-b6e0cc1df6cc",
+                    "full_name": "Herbert Jones",
+                    "first_name": "Herbert",
+                    "last_name": "Jones",
+                    "position": "F",
+                    "primary_position": "SF",
+                    "jersey_number": "2",
+                    "sr_id": "sr:player:1296160",
+                    "reference": "1630529",
+                    "injuries": [
+                        {
+                            "id": "576d34c6-17a1-4f33-8b7f-65efe7e8bf22",
+                            "comment": "The Pelicans announced that Jones underwent successful surgery Wednesday's (Feb. 12) to repair a torn rotator cuff in his right shoulder.",
+                            "desc": "Shoulder",
+                            "status": "Out For Season",
+                            "start_date": "2025-01-09",
+                            "update_date": "2025-02-26"
+                        }
+                    ]
+                },
+                {
+                    "id": "bc70a55a-cee0-478f-9a13-cf51c4a4187c",
+                    "full_name": "CJ McCollum",
+                    "first_name": "CJ",
+                    "last_name": "McCollum",
+                    "position": "G",
+                    "primary_position": "PG",
+                    "jersey_number": "3",
+                    "sr_id": "sr:player:607968",
+                    "reference": "203468",
+                    "injuries": [
+                        {
+                            "id": "940d4311-9af7-4400-b91f-2a2f29a57865",
+                            "comment": "The Pelicans announced Monday (Mar. 31) that McCollum will miss the remainder of the 2024-25 season.",
+                            "desc": "Foot",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-27",
+                            "update_date": "2025-03-31"
+                        }
+                    ]
+                },
+                {
+                    "id": "7d27ec3b-1e31-4b0f-abcf-e12039a0e27b",
+                    "full_name": "Dejounte Murray",
+                    "first_name": "Dejounte",
+                    "last_name": "Murray",
+                    "position": "G",
+                    "primary_position": "PG",
+                    "jersey_number": "5",
+                    "sr_id": "sr:player:996315",
+                    "reference": "1627749",
+                    "injuries": [
+                        {
+                            "id": "a3070ef9-ad58-49e8-8540-b27ae38a33b7",
+                            "comment": "Murray suffered a torn right Achilles tendon during Friday's (Jan. 31) game against the Celtics and will now miss the rest of the season, per Shams Charania of ESPN.com.",
+                            "desc": "Leg",
+                            "status": "Out For Season",
+                            "start_date": "2025-01-31",
+                            "update_date": "2025-01-31"
+                        }
+                    ]
+                },
+                {
+                    "id": "5cc51c05-06f5-4ae4-89a4-1d329fbbcdfb",
+                    "full_name": "Zion Williamson",
+                    "first_name": "Zion",
+                    "last_name": "Williamson",
+                    "position": "F",
+                    "primary_position": "PF",
+                    "jersey_number": "1",
+                    "sr_id": "sr:player:1770164",
+                    "reference": "1629627",
+                    "injuries": [
+                        {
+                            "id": "e9b25efe-139d-4f9d-892a-632b307ca704",
+                            "comment": "The Pelicans announced Monday (Mar. 31) that Williamson won't play for the rest of the 2024-25 season.",
+                            "desc": "Back",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-21",
+                            "update_date": "2025-03-31"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ecf50-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Mavericks",
+            "market": "Dallas",
+            "sr_id": "sr:team:3411",
+            "reference": "1610612742",
+            "players": [
+                {
+                    "id": "dd146010-902b-4ad7-b98c-650d0363a2f0",
+                    "full_name": "Kyrie Irving",
+                    "first_name": "Kyrie",
+                    "last_name": "Irving",
+                    "position": "G",
+                    "primary_position": "SG",
+                    "jersey_number": "11",
+                    "sr_id": "sr:player:608268",
+                    "reference": "202681",
+                    "injuries": [
+                        {
+                            "id": "819d93be-5ff2-4bd3-8181-7aa182fe3e50",
+                            "comment": "The Mavericks have optimism that Irving could be ready to make his 2025-26 debut in January, Shams Charania of ESPN reports.",
+                            "desc": "Knee",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-03",
+                            "update_date": "2025-04-16"
+                        }
+                    ]
+                },
+                {
+                    "id": "599e6bbf-54a5-431b-b542-1817a0942369",
+                    "full_name": "Olivier-Maxence Prosper",
+                    "first_name": "Olivier-Maxence",
+                    "last_name": "Prosper",
+                    "position": "F",
+                    "primary_position": "PF",
+                    "jersey_number": "8",
+                    "sr_id": "sr:player:2078595",
+                    "reference": "1641765",
+                    "injuries": [
+                        {
+                            "id": "fe540508-ae7a-4f89-8fa6-b876d3ebeabc",
+                            "comment": "The Mavericks announced on Thursday (Mar. 13) that Prosper has been ruled out for the remainder of the 2024-25 season after undergoing surgery to repair a right wrist injury.",
+                            "desc": "Wrist",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-06",
+                            "update_date": "2025-03-13"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Nuggets",
+            "market": "Denver",
+            "sr_id": "sr:team:3417",
+            "reference": "1610612743",
+            "players": [
+                {
+                    "id": "e6c9ddf9-088c-4e10-866b-0ff5172f6ba9",
+                    "full_name": "DaRon Holmes II",
+                    "first_name": "DaRon",
+                    "last_name": "Holmes",
+                    "position": "F",
+                    "primary_position": "PF",
+                    "jersey_number": "14",
+                    "name_suffix": "II",
+                    "sr_id": "sr:player:2216776",
+                    "reference": "1641747",
+                    "injuries": [
+                        {
+                            "id": "85e709fb-31cd-44a8-af6c-eb307618dca7",
+                            "comment": "Nuggets HC Michael Malone said that Holmes was able to participate in portions of Wednesday's (Feb. 19) practice, as per Brendan Vogt of TheDNVR.com reports.",
+                            "desc": "Achilles",
+                            "status": "Out For Season",
+                            "start_date": "2024-07-13",
+                            "update_date": "2025-02-23"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ecefd-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Bucks",
+            "market": "Milwaukee",
+            "sr_id": "sr:team:3410",
+            "reference": "1610612749",
+            "players": [
+                {
+                    "id": "5382cf43-3a79-4a5a-a7fd-153906fe65dd",
+                    "full_name": "Damian Lillard",
+                    "first_name": "Damian",
+                    "last_name": "Lillard",
+                    "position": "G",
+                    "primary_position": "PG",
+                    "jersey_number": "0",
+                    "sr_id": "sr:player:607552",
+                    "reference": "203081",
+                    "injuries": [
+                        {
+                            "id": "af15d5bd-7478-4ea0-a5f4-99748a3f84d5",
+                            "comment": "Damian Lillard has been diagnosed with a torn left Achilles tendon. An MRI today revealed the severity ending his season, sources tell ShamsCharania.",
+                            "desc": "Leg",
+                            "status": "Out For Season",
+                            "start_date": "2025-04-27",
+                            "update_date": "2025-04-28"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ece50-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Jazz",
+            "market": "Utah",
+            "sr_id": "sr:team:3434",
+            "reference": "1610612762",
+            "players": [
+                {
+                    "id": "fb6e5496-cfa5-42c2-bbfa-f776734a25a8",
+                    "full_name": "Taylor Hendricks",
+                    "first_name": "Taylor",
+                    "last_name": "Hendricks",
+                    "position": "F",
+                    "primary_position": "PF",
+                    "jersey_number": "0",
+                    "sr_id": "sr:player:2442405",
+                    "reference": "1641707",
+                    "injuries": [
+                        {
+                            "id": "ba7e741f-a5d8-47df-8c9c-4684d58f8bc3",
+                            "comment": "Hendricks underwent surgery on Wednesday (Nov. 6) to repair a fractured right fibula and dislocated right ankle, per Andy Larsen of The Salt Lake Tribune.",
+                            "desc": "Fibula",
+                            "status": "Out For Season",
+                            "start_date": "2024-10-28",
+                            "update_date": "2024-11-06"
+                        }
+                    ]
+                },
+                {
+                    "id": "03d77214-5780-4715-8df2-13de3af5ea2d",
+                    "full_name": "Jordan Clarkson",
+                    "first_name": "Jordan",
+                    "last_name": "Clarkson",
+                    "position": "G",
+                    "primary_position": "SG",
+                    "jersey_number": "00",
+                    "sr_id": "sr:player:607936",
+                    "reference": "203903",
+                    "injuries": [
+                        {
+                            "id": "dddf65b1-7101-45df-ab03-d33c173e735c",
+                            "comment": "Clarkson will miss the rest of the season for the Jazz after having a procedure to address the plantar fasciitis in his left foot, per Sr. NBA writer Marc J. Spears.",
+                            "desc": "Foot",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-25",
+                            "update_date": "2025-03-27"
+                        }
+                    ]
+                },
+                {
+                    "id": "f6db8914-5cdd-48d6-ac19-b64133d688cf",
+                    "full_name": "Cody Williams",
+                    "first_name": "Cody",
+                    "last_name": "Williams",
+                    "position": "F",
+                    "primary_position": "SG",
+                    "jersey_number": "5",
+                    "sr_id": "sr:player:2686037",
+                    "reference": "1642262",
+                    "injuries": [
+                        {
+                            "id": "efccf201-5d98-4a56-b917-cd8b5f424e0d",
+                            "comment": "The Jazz announced on Wednesday (Apr. 2) that Williams tested positive for mononucleosis, ruling him out for the remainder of the season, according to Ben Anderson of KSL News Salt Lake City.",
+                            "desc": "Illness",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-31",
+                            "update_date": "2025-04-02"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Thunder",
+            "market": "Oklahoma City",
+            "sr_id": "sr:team:3418",
+            "reference": "1610612760",
+            "players": [
+                {
+                    "id": "bf6b4aed-c007-41eb-b4e5-08b99f292ec2",
+                    "full_name": "Nikola Topić",
+                    "first_name": "Nikola",
+                    "last_name": "Topić",
+                    "position": "G",
+                    "primary_position": "PG",
+                    "jersey_number": "44",
+                    "sr_id": "sr:player:2324735",
+                    "reference": "1642260",
+                    "injuries": [
+                        {
+                            "id": "bd4c7471-8516-4327-9d88-96ead7a261e5",
+                            "comment": "Topic was spotted taking part in light shooting drills on the court prior to the Thunder's 105-92 win over the Celtics last Sunday (Jan. 12), as per Clemente Almanza of USA Today.",
+                            "desc": "ACL",
+                            "status": "Out For Season",
+                            "start_date": "2024-07-24",
+                            "update_date": "2025-01-12"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583eca88-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Grizzlies",
+            "market": "Memphis",
+            "sr_id": "sr:team:3415",
+            "reference": "1610612763",
+            "players": [
+                {
+                    "id": "f2d36d30-3544-41cb-831d-afec9e256418",
+                    "full_name": "Jaylen Wells",
+                    "first_name": "Jaylen",
+                    "last_name": "Wells",
+                    "position": "F",
+                    "primary_position": "SG",
+                    "jersey_number": "0",
+                    "sr_id": "sr:player:2492961",
+                    "reference": "1642377",
+                    "injuries": [
+                        {
+                            "id": "bdc43eb8-04e2-408e-a37c-9eaeea449e4c",
+                            "comment": "The Grizzlies announced on Friday (Apr. 11) that Wells appears to have a broken right wrist, concussion, and facial laceration. He is expected to miss the rest of the season.",
+                            "desc": "Wrist",
+                            "status": "Out For Season",
+                            "start_date": "2025-04-07",
+                            "update_date": "2025-04-11"
+                        }
+                    ]
+                },
+                {
+                    "id": "c978afe7-cf22-45fc-8d0f-da8f867eb5ee",
+                    "full_name": "Brandon Clarke",
+                    "first_name": "Brandon",
+                    "last_name": "Clarke",
+                    "position": "F",
+                    "primary_position": "PF",
+                    "jersey_number": "15",
+                    "sr_id": "sr:player:1164396",
+                    "reference": "1629634",
+                    "injuries": [
+                        {
+                            "id": "dd975434-3e95-49ed-be85-8c083cb9ad67",
+                            "comment": "The Grizzlies annonced Clarke will mis the reaminder of the of the 2024-25 season with a PCL strain in his right knee.",
+                            "desc": "Knee",
+                            "status": "Out For Season",
+                            "start_date": "2025-03-19",
+                            "update_date": "2025-03-22"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Celtics",
+            "market": "Boston",
+            "sr_id": "sr:team:3422",
+            "reference": "1610612738",
+            "players": [
+                {
+                    "id": "f5aac467-6bf9-4fa3-b89a-9ef71fe546fa",
+                    "full_name": "Sam Hauser",
+                    "first_name": "Sam",
+                    "last_name": "Hauser",
+                    "position": "F",
+                    "primary_position": "PF",
+                    "jersey_number": "30",
+                    "sr_id": "sr:player:1169096",
+                    "reference": "1630573",
+                    "injuries": [
+                        {
+                            "id": "cc603f43-a9c8-420b-a4f2-a0fe4f32c032",
+                            "comment": "The Celtics listed Hauser as Out for Wednesday's (May. 7) Game 2 against the Knicks.",
+                            "desc": "Ankle",
+                            "status": "Out",
+                            "start_date": "2025-05-05",
+                            "update_date": "2025-05-07"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "583ec825-fb46-11e1-82cb-f4ce4684ea4c",
+            "name": "Warriors",
+            "market": "Golden State",
+            "sr_id": "sr:team:3428",
+            "reference": "1610612744",
+            "players": [
+                {
+                    "id": "8ec91366-faea-4196-bbfd-b8fab7434795",
+                    "full_name": "Stephen Curry",
+                    "first_name": "Stephen",
+                    "last_name": "Curry",
+                    "position": "G",
+                    "primary_position": "PG",
+                    "jersey_number": "30",
+                    "sr_id": "sr:player:608110",
+                    "reference": "201939",
+                    "injuries": [
+                        {
+                            "id": "fb3931ec-afc6-4a3b-ad30-6da33f1558fa",
+                            "comment": "The Warriors annonced Curry has sustained a Grade 1 left hamstring strain. Curry will be ruled Out for Game 2 against Minnesota on Thursday (May 7) and will be officially re-evaluated in one week.",
+                            "desc": "Hamstring",
+                            "status": "Out",
+                            "start_date": "2025-05-06",
+                            "update_date": "2025-05-07"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+[
+  {
+    "id": "1ea4f2c4-b14f-4fcb-b41a-a89124e5b587",
+    "status": "inprogress",
+    "title": "Game 2",
+    "coverage": "full",
+    "scheduled": "2025-05-07T23:00:00Z",
+    "track_on_court": true,
+    "sr_id": "sr:match:59796486",
+    "reference": "0042400212",
+    "time_zones": {
+      "venue": "US/Eastern",
+      "home": "US/Eastern",
+      "away": "US/Eastern"
+    },
+    "venue": {
+      "id": "7d69b080-91ca-53c9-9302-45c1a72c5549",
+      "name": "TD Garden",
+      "capacity": 18624,
+      "address": "100 Legends Way",
+      "city": "Boston",
+      "state": "MA",
+      "zip": "02114",
+      "country": "USA",
+      "sr_id": "sr:venue:5940",
+      "location": {
+        "lat": "42.366303",
+        "lng": "-71.062228"
+      }
+    },
+    "broadcasts": [
+      {
+        "network": "TNT",
+        "type": "TV",
+        "locale": "National",
+        "channel": "245"
+      },
+      {
+        "network": "truTV",
+        "type": "TV",
+        "locale": "National",
+        "channel": "246"
+      },
+      {
+        "network": "MAX",
+        "type": "Internet"
+      }
+    ],
+    "home": {
+      "name": "Boston Celtics",
+      "alias": "BOS",
+      "id": "583eccfa-fb46-11e1-82cb-f4ce4684ea4c",
+      "seed": 2,
+      "sr_id": "sr:team:3422",
+      "reference": "1610612738"
+    },
+    "away": {
+      "name": "New York Knicks",
+      "alias": "NYK",
+      "id": "583ec70e-fb46-11e1-82cb-f4ce4684ea4c",
+      "seed": 3,
+      "sr_id": "sr:team:3421",
+      "reference": "1610612752"
+    }
+  },
+  {
+    "id": "1f88e4bc-3062-4215-ad5f-af114125abce",
+    "status": "scheduled",
+    "title": "Game 2",
+    "coverage": "full",
+    "scheduled": "2025-05-08T01:30:00Z",
+    "track_on_court": true,
+    "sr_id": "sr:match:59796532",
+    "reference": "0042400222",
+    "time_zones": {
+      "venue": "US/Central",
+      "home": "US/Central",
+      "away": "US/Mountain"
+    },
+    "venue": {
+      "id": "a13af216-4409-5021-8dd5-255cc71bffc3",
+      "name": "Paycom Center",
+      "capacity": 18203,
+      "address": "100 W. Reno Avenue",
+      "city": "Oklahoma City",
+      "state": "OK",
+      "zip": "73102",
+      "country": "USA",
+      "sr_id": "sr:venue:6934",
+      "location": {
+        "lat": "35.463333",
+        "lng": "-97.515"
+      }
+    },
+    "broadcasts": [
+      {
+        "network": "TNT",
+        "type": "TV",
+        "locale": "National",
+        "channel": "245"
+      },
+      {
+        "network": "truTV",
+        "type": "TV",
+        "locale": "National",
+        "channel": "246"
+      },
+      {
+        "network": "MAX",
+        "type": "Internet"
+      }
+    ],
+    "home": {
+      "name": "Oklahoma City Thunder",
+      "alias": "OKC",
+      "id": "583ecfff-fb46-11e1-82cb-f4ce4684ea4c",
+      "seed": 1,
+      "sr_id": "sr:team:3418",
+      "reference": "1610612760"
+    },
+    "away": {
+      "name": "Denver Nuggets",
+      "alias": "DEN",
+      "id": "583ed102-fb46-11e1-82cb-f4ce4684ea4c",
+      "seed": 4,
+      "sr_id": "sr:team:3417",
+      "reference": "1610612743"
+    }
+  }
+]
