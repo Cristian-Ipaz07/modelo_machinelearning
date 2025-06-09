@@ -1,0 +1,86 @@
+{
+  "metadata": {
+    "generated_at": "2025-06-08T17:57:51.461835",
+    "game_id": "46824344ea7ec8ac8ae11661eb812d50",
+    "home_team": "Oklahoma City Thunder",
+    "away_team": "Indiana Pacers",
+    "commence_time": "2025-06-09T00:00:00Z"
+  },
+  "model_predictions": [
+    {
+      "game_id": "nba-20240521-OKC-IND",
+      "date": "2025-05-21",
+      "target_type": "team",
+      "prediction_type": "is_win",
+      "team": "Oklahoma City Thunder",
+      "probability": 0.68,
+      "confidence": 0.82,
+      "bet_line": "OKC",
+      "bet_type": "winner",
+      "event_datetime": "2025-05-21T00:00:00Z"
+    },
+    {
+      "game_id": "nba-20240521-OKC-IND",
+      "date": "2025-05-21",
+      "target_type": "team",
+      "prediction_type": "is_win",
+      "team": "Indiana Pacers",
+      "probability": 0.32,
+      "confidence": 0.75,
+      "bet_line": "IND",
+      "bet_type": "winner",
+      "event_datetime": "2025-05-21T00:00:00Z"
+    }
+  ],
+  "odds_consolidadas": {
+    "moneyline": {
+      "home": 1.177142857142857,
+      "away": 5.231428571428571
+    },
+    "spread": {
+      "home": 1.907142857142857,
+      "away": 1.9185714285714286,
+      "points": -11.428571428571429
+    },
+    "total": {
+      "over": 1.9028571428571428,
+      "under": 1.92,
+      "points": 228.42857142857142
+    }
+  },
+  "value_analysis": [
+    {
+      "game_id": "nba-20240521-OKC-IND",
+      "market": "moneyline",
+      "selection": "Oklahoma City Thunder",
+      "model_prob": 0.68,
+      "implied_prob": 0.8495145631067962,
+      "odds": 1.177142857142857,
+      "value": -0.19954285714285716,
+      "confidence": 0.82,
+      "recommendation": "NO BET"
+    },
+    {
+      "game_id": "nba-20240521-OKC-IND",
+      "market": "moneyline",
+      "selection": "Indiana Pacers",
+      "model_prob": 0.32,
+      "implied_prob": 0.19115237575095576,
+      "odds": 5.231428571428571,
+      "value": 0.6740571428571429,
+      "confidence": 0.75,
+      "recommendation": "STRONG BET"
+    }
+  ],
+  "top_recommendation": {
+    "game_id": "nba-20240521-OKC-IND",
+    "market": "moneyline",
+    "selection": "Indiana Pacers",
+    "model_prob": 0.32,
+    "implied_prob": 0.19115237575095576,
+    "odds": 5.231428571428571,
+    "value": 0.6740571428571429,
+    "confidence": 0.75,
+    "recommendation": "STRONG BET"
+  }
+}
